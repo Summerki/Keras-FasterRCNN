@@ -81,3 +81,12 @@
 ![1564534431367](FasterRCNN.assets/1564534431367.png)
 
 ![1564534558918](FasterRCNN.assets/1564534558918.png)
+
+
+
+# Class4 SharedMap
+
+![1564556474153](FasterRCNN.assets/1564556474153.png)
+
+注：上图`黄底的修正量`改为`分类`
+
